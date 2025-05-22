@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToySwap.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf1caefb3dd99b798997099018fda569e4fd8927")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23508ac87d62df9b3978f71f8a50a4bfb0f2259f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToySwap.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToySwap.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
